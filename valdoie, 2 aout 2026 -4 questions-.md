@@ -1,5 +1,5 @@
 ---
-title: "Valdoie, 2 août 2026"
+title: "Valdoie, 2 août 2026 (4 questions)"
 order: 2
 in_menu: true
 ---
