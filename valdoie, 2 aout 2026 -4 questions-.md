@@ -66,3 +66,47 @@ Sur mes choix personnels, mes actions, la trace que je laisserai, bref le sens d
 - La chaleur (Anonyme, avec un soleil au feutre jaune et des rayons oranges et rouges)
 
 ![Grosse colère...]({% link images/signal-2026-08-20-17-23-35-882.jpg %}) 
+
+# Question 3 : *C'est quoi la suite ? (on fait comment maintenant)*
+- On se met en action aujourd'hui (Femme, 51 ans)
+- On réfléchit ensemble (Anonyme)
+- Ça m'amuse beaucoup de dire la même chose que la ligne d'avant mais séparément ! C'est pas gagné ! (Homme, 54 ans)
+- Réchauffement climatique, pauvreté, fascisme, discrimination... Venez, on s'organise ! (Anonyme)
+- **U**n **S**ac à **D**os, **M**on **A**moureuse et **C**e **Q**ue **L**a **V**ie **V**eut **B**ien **N**ous **O**ffrir :-) (Bob, 40ans)
+- SE RASSEMBLER (Anonyme - 1ère fois au feutre rouge, puis en bleu, jaune, vert, noir, et enfin brun)
+- On se libère ! À vélo ! Au boulot ! Avec les copains ! Au jardin !
+- "On n'a le choix qu'entre des <u>vérités insupportables</u> et des <u>supercheries salutaires</u>" Cioran (Bernard, 66 ans)
+- **N**e pas se résigner ! Lutter ensemble nourrit l'espoir. (Anonyme)
+- Me soigner (Luz, 28 ans)
+- On va jouer dehors (Louise, 9 ans)
+- La suite ? C'est chaque ici et maintenant... Semer de l'amour et des sourires (Aline, 47 ans)
+- Aimez-vous les uns les autres ! (Bitos, 43 ans)(Feutre vert et cœurs roses)
+- On fait des crêpes (Eliott, 9 ans)
+- Faire des conférences avec les gens sur mon expérience de vie (Luz, 28 ans)
+- Tout le monde pensait que c'était impossible. Lui ne le savait pas et il le fit. (Michel, 33,5 ans)
+- Se mettre au frais (Anonyme)
+- On partage
+
+![Image qui dit on partage]({% link images/on partage.jpg %})
+
+# Question 7 : *En cas d'échec tu fais quoi ?*
+
+- Je prie ! (Nan, c'est pas vrai). Je prends les armes ! (J'y pense mais ne le ferai pas). Je me tourne vers la jeunesse, c'est votre devenir dont il s'agit maintenant. Bonne chance (Anonyme)
+- Je rebondis haut ! (Femme, 51 ans)
+- Créer/intégrer une nation pirate ! (Anonyme)
+- Je nie et je recommence: la suite en avant ! (Homme, 54 ans)
+- On LÂCHE RIEN ! Tant qu'on est là, pas le choix... (Anonyme)
+- Raviver la flamme en brûlant des politiciens :-) (Homme, 54 ans)
+- L'échec est le propre de la vie qui se respecte, donc on continue... (Bernard, 66 ans)
+- S'idrater (Fille, 8 ans)
+- **TOMBER N'EST PAS CHUTER ! ON CONTINUE !** (Anonyme)
+- En cas d'échec ? Je m'effondre, je souffre, je crois que la vie finit. Et pourtant la vie reprend toujours le dessus. Elle nous embarque, et nous fait renaître. Alors on se tourne vers le beau et on fait de son mieux pour le cultiver. (Céline, 43 ans)
+- En cas d'échec on remet ça jusqu'à ce que ça marche !! (Daniel, 80 ans)
+- Je ne me laisse pas aller et je recommence. C'est ça la vie. (Anne-Marie, 84 ans)
+- Un dessin (Eliott, 9 ans)
+- Je repars à zéro avec mes amis (Pierrette, 79 ans)
+- Pas d'apprentissage sans échec, alors échouons avec SUPERBE (Fanny, 36 ans)
+- Je vais voir quelqu'un (Margot, 7 ans)
+- Je vais chez Jeanne (Louise, 9 ans)
+- On continue avec qui nous sommes (Anonyme)
+- On Apprend et on RECOMMENCE... Et toi, ça va ? (Homme, 43 ans) 
