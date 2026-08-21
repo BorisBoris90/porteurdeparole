@@ -43,7 +43,6 @@ Sur mes choix personnels, mes actions, la trace que je laisserai, bref le sens d
 ![Nove, âge indéfini]({% link images/Nove.jpg %}) 
 
 # **Question 2 :** *C'est quoi ton problème ? (un seul à la fois)*
-
 - Ça fait un peu chaud, non ? (Anonyme)
 - J'ai toujours du mal à ne pas faire de concessions, dans n'importe quel contexte. Ou presque n'importe quel contexte. (Boris, 54 ans)
 - **N**e **P**as **S**avoir **D**ire **N**on (Bob, 40 ans)
@@ -65,7 +64,7 @@ Sur mes choix personnels, mes actions, la trace que je laisserai, bref le sens d
 
 ![Grosse colère...]({% link images/signal-2026-08-20-17-23-35-882.jpg %}) 
 
-# Question 3 : *C'est quoi la suite ? (on fait comment maintenant)*<br><br/>
+# Question 3 : *C'est quoi la suite ? (on fait comment maintenant)*
 - On se met en action aujourd'hui (Femme, 51 ans)
 - On réfléchit ensemble (Anonyme)
 - Ça m'amuse beaucoup de dire la même chose que la ligne d'avant mais séparément ! C'est pas gagné ! (Homme, 54 ans)
@@ -87,7 +86,7 @@ Sur mes choix personnels, mes actions, la trace que je laisserai, bref le sens d
 
 ![Image qui dit on partage]({% link images/on partage.jpg %})
 
-# Question 4 : *En cas d'échec tu fais quoi ?*<br><br/>
+# Question 4 : *En cas d'échec tu fais quoi ?*
 - Je prie ! (Nan, c'est pas vrai). Je prends les armes ! (J'y pense mais ne le ferai pas). Je me tourne vers la jeunesse, c'est votre devenir dont il s'agit maintenant. Bonne chance (Anonyme)
 - Je rebondis haut ! (Femme, 51 ans)
 
