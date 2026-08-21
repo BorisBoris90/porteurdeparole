@@ -42,7 +42,8 @@ Sur mes choix personnels, mes actions, la trace que je laisserai, bref le sens d
 
 ![Nove, âge indéfini]({% link images/Nove.jpg %}) 
 
-# **Question 2 :** *C'est quoi ton problème ? (un seul à la fois)*<br><br/>
+# **Question 2 :** *C'est quoi ton problème ? (un seul à la fois)*
+
 - Ça fait un peu chaud, non ? (Anonyme)
 - J'ai toujours du mal à ne pas faire de concessions, dans n'importe quel contexte. Ou presque n'importe quel contexte. (Boris, 54 ans)
 - **N**e **P**as **S**avoir **D**ire **N**on (Bob, 40 ans)
